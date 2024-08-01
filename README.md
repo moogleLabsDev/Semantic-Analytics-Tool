@@ -20,11 +20,6 @@ Clone the project
   git clone https://github.com/moogleLabsDev/Semantic-Analytics-Tool.git
 ```
 
-Go to the project directory
-
-```bash
-  cd Das-Plotly
-```
 
 Install dependencies
 
